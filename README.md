@@ -33,7 +33,7 @@ git clone https:https://github.com/mrezaei92/infrustructure_HPE.git
   
    Download and extract the dataset from the link provided below
    
-   Copy the content of the folder data/MSRA to where the dataset is located
+   Download and extract data/MSRA.tar.xz and copy its content to where the dataset is located 
 
 
 # Training and Evaluation
