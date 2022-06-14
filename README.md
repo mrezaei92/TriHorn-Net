@@ -1,6 +1,9 @@
 # TriHorNet
 This is the PyTorch implementation of TriHornNet
 
+arXiv preprint can be found at: https://X.com
+
+
 ## Setup
 Download the repository:
 ```bash
