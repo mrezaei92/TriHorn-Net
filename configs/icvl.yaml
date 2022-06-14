@@ -1,0 +1,30 @@
+datasetpath: "path"
+model_name: hglass_2_1
+dataset: icvl
+cubic_size: 280
+subsetLength: -1
+
+num_epoch: 40
+batch_size: 32
+
+RotAugment: 1
+comjitter: 8
+RandDotPercentage: 0.15 #PixDropOut
+scale_aug: 1
+
+use_fp16: 1
+
+save_freq: 10
+
+paralelization_type: N
+device_IDs: 0,1,2,3
+default_cuda_id: '0'
+
+LossFunction: L1
+train_mode: normal
+
+optimizer: adam
+lr: 0.001
+weight_decay: 2.0e-05
+
+
