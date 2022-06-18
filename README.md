@@ -11,7 +11,7 @@ makeReposit = [/the/directory/as/you/wish]
 mkdir -p $makeReposit/; cd $makeReposit/
 git clone https:https://github.com/mrezaei92/infrustructure_HPE.git
 ```
-# Preparing the Dataset
+## Preparing the Dataset
 1. NYU dataset
    
    Download and extract the dataset from the link provided below
@@ -39,7 +39,7 @@ git clone https:https://github.com/mrezaei92/infrustructure_HPE.git
    Download and extract data/MSRA.tar.xz and copy its content to where the dataset is located 
 
 
-# Training and Evaluation
+## Training and Evaluation
 
 Before running the experiment, first set the value ”datasetpath” in the corresponding .yaml file located in the folder configs. This value should be set to the address of the corresponding dataset. Then open a terminal and run the corresponding command.
 After running each command, training is first done, and then the resulting models will be evaluated on the corresponding test set.  
@@ -65,7 +65,7 @@ The results will be saved in a file named ”results.txt”.
    ```
    
 
-# Supported Datasets
+## Supported Datasets
 This repo supports using the following dataset for training and testing:
 
 * ICVL Hand Poseture Dataset [[link](https://labicvl.github.io/hand.html)] [[paper](http://www.iis.ee.ic.ac.uk/dtang/cvpr_14.pdf)]
