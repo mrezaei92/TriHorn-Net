@@ -1,6 +1,5 @@
 # TriHorNet
-This is the PyTorch implementation of TriHornNet
-
+This repository contains the PyTorch implementation of TriHornNet. It contains easy instruction to replicate the results reported in the paper.  
 arXiv preprint can be found at: https://X.com
 
 ### Introduction
