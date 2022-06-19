@@ -1,5 +1,5 @@
-# TriHorNet
-This repository contains the PyTorch implementation of TriHornNet. It contains easy instruction to replicate the results reported in the paper.  
+# TriHorn-Net
+This repository contains the PyTorch implementation of TriHorn-Net. It contains easy instruction to replicate the results reported in the paper.  
 arXiv preprint can be found at: https://X.com
 
 ### Introduction
