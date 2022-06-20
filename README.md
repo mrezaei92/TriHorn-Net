@@ -82,6 +82,18 @@ This repo supports using the following dataset for training and testing:
 * MSRA Hand Pose Dataset [[link](https://jimmysuen.github.io/)] [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sun_Cascaded_Hand_Pose_2015_CVPR_paper.pdf)]
 
 
+## Results
+The table below shows the predicted labels on ICVL, NYU and MSRA dataset. All labels are in the format of (u, v, d) where u and v are pixel coordinates.
+
+| Dataset | Predicted Labels |
+|-------|-------|
+| ICVL | [Download](https://drive.google.com/file/d/1QqZbQS8wqxxahbmOgQHBWK59lGl7zXnU/view?usp=sharing) | 
+| NYU | [Download](https://drive.google.com/file/d/11wLja_Xvu6knqdIctd_fpM3aYeeLtuSc/view?usp=sharing)|
+| MSRA | [Download](https://drive.google.com/file/d/1T5nN_CK9qD5y1iSCapt2oyuMugLi4buQ/view?usp=sharing) | 
+
+
+
+
 ## Bibtex
 If you use this paper for your research or projects, please cite [XX](https://dl.acm.org/doi).
 
