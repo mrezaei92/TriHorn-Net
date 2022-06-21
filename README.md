@@ -1,6 +1,6 @@
 # TriHorn-Net
-This repository contains the PyTorch implementation of TriHorn-Net. It contains easy instruction to replicate the results reported in the paper.  
-arXiv preprint can be found at: https://X.com
+This repository contains the PyTorch implementation of [TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation](https://arxiv.org/abs/2206.07117). It contains easy instruction to replicate the results reported in the paper.  
+
 
 ### Introduction
 
@@ -95,13 +95,12 @@ The table below shows the predicted labels on ICVL, NYU and MSRA dataset. All la
 
 
 ## Bibtex
-If you use this paper for your research or projects, please cite [XX](https://dl.acm.org/doi).
+If you use this paper for your research or projects, please cite [TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation](https://arxiv.org/abs/2206.07117).
 
 ```bibtex
-@inproceedings{rezaei2021weakly,
-  title={Weakly-supervised hand part segmentation from depth images},
-  author={Rezaei, Mohammad and Farahanipad, Farnaz and Dillhoff, Alex and Elmasri, Ramez and Athitsos, Vassilis},
-  booktitle={The 14th PErvasive Technologies Related to Assistive Environments Conference},
-  pages={218--225},
-  year={2021}
+@article{rezaei2022trihorn,
+  title={TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation},
+  author={Rezaei, Mohammad and Rastgoo, Razieh and Athitsos, Vassilis},
+  journal={arXiv preprint arXiv:2206.07117},
+  year={2022}
 }
