@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/trihorn-net-a-model-for-accurate-depth-based/hand-pose-estimation-on-icvl-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-icvl-hands?p=trihorn-net-a-model-for-accurate-depth-based) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/trihorn-net-a-model-for-accurate-depth-based/hand-pose-estimation-on-msra-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-msra-hands?p=trihorn-net-a-model-for-accurate-depth-based) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/trihorn-net-a-model-for-accurate-depth-based/hand-pose-estimation-on-nyu-hands)](https://paperswithcode.com/sota/hand-pose-estimation-on-nyu-hands?p=trihorn-net-a-model-for-accurate-depth-based)
+
 # TriHorn-Net
 This repository contains the PyTorch implementation of [TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation](https://arxiv.org/abs/2206.07117). It contains easy instruction to replicate the results reported in the paper.  
 
