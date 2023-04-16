@@ -111,7 +111,6 @@ If you use this paper for your research or projects, please cite [TriHorn-Net: A
 
 Or 
 
-```bibtex
 @article{rezaei2022trihorn,
   title={TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation},
   author={Rezaei, Mohammad and Rastgoo, Razieh and Athitsos, Vassilis},
