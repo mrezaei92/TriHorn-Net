@@ -27,10 +27,10 @@ def calculateCoM(dpt,minDepth=0,maxDepth=500):
         dc[dc > maxDepth] = 0
         cc = ndimage.measurements.center_of_mass(dc > 0)
         num = np.count_nonzero(dc)
-        com = np.array((cc[1]*num, cc[0]*num, dc.sum()), np.float)
+        com = np.array((cc[1]*num, cc[0]*num, dc.sum()), float)
 
         if num == 0:
-            return np.array((0, 0, 0), np.float)
+            return np.array((0, 0, 0), float)
         else:
             return com/num
             
@@ -39,7 +39,7 @@ def transformPoint2D(pt, M):
     """
     Transform point in 2D coordinates
     :param pt: point coordinates
-    :param M: transformation matrix
+Terminal Saved Output    :param M: transformation matrix
     :return: transformed point
     """
     pt2 = numpy.dot(numpy.asarray(M).reshape((3, 3)), numpy.asarray([pt[0], pt[1], 1]))
