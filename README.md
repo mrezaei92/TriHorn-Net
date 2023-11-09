@@ -97,7 +97,7 @@ The table below shows the predicted labels on ICVL, NYU and MSRA dataset. All la
 
 
 ## Bibtex
-If you use this paper for your research or projects, please cite [TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation](https://arxiv.org/abs/2206.07117).
+If you use this paper for your research or projects, please cite [TriHorn-Net: A Model for Accurate Depth-Based 3D Hand Pose Estimation](https://doi.org/10.1016/j.eswa.2023.119922).
 
 ```bibtex
 @article{rezaei2023trihorn,
