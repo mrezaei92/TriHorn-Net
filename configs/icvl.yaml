@@ -1,4 +1,4 @@
-datasetpath: "path"
+datasetpath: "data/ICVL"
 model_name: hglass_2_1
 dataset: icvl
 cubic_size: 280
@@ -18,7 +18,7 @@ save_freq: 10
 
 paralelization_type: N
 device_IDs: 0,1,2,3
-default_cuda_id: '0'
+default_cuda_id: '1'
 
 LossFunction: L1
 train_mode: normal
